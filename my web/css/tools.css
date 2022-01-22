@@ -1,0 +1,47 @@
+p
+{
+    color:#fff;
+    padding: 50px;
+    font-size: 1.2em;
+}
+h1
+{
+    color:#fff;
+}
+body
+{
+    background-image: url(../images/beach.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+section 
+{
+    position:relative;
+    top: 200px;
+    padding: 50px 100px;
+}
+section>div
+{
+    border:3px solid #fff
+}
+
+section ul li
+{
+    list-style:none;
+    width: 300px;
+    height: 30px;
+    margin: 20px 0;
+}
+.object
+{
+    margin: 40px 100px;
+}
+
+.quick-link
+{
+    color: #D4BBA7;
+    
+}
